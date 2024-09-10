@@ -1,4 +1,4 @@
-from py_eureka_client import eureka_client
+from py_eureka_client import eureka_client #TEST
 import requests
 import logging
 import json
